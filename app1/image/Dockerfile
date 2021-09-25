@@ -1,2 +1,2 @@
 FROM php:apache-buster
-COPY app/ /var/www/html/
+COPY app1/ /var/www/html/
